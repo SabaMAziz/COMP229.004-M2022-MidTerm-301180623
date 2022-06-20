@@ -1,2 +1,2 @@
-# COMP229.004-M2022-MidTerm-301180623
- Web Application MidTerm
+# COMP229.M2022.Midterm.Template
+ COMP229.M2022 - Midterm Template
