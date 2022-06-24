@@ -1,3 +1,9 @@
+/* Filename: passport.js
+ Student: Saba Aziz
+ StudentId: 301180623
+ Class:COMP 229
+ */
+
 const passport = require('passport');
 
 module.exports = function() {

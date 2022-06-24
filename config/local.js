@@ -1,3 +1,10 @@
+/* Filename: local.js
+ Student: Saba Aziz
+ StudentId: 301180623
+ Class:COMP 229
+*/
+
+
 const passport = require('passport');
 const LocalStrategy = require('passport-local').Strategy;
 const User = require('../models/user');

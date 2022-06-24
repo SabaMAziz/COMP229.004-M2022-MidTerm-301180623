@@ -6,6 +6,12 @@ let carController = require('../controllers/car');
 // Helper function for guard purposes
 function requireAuth(req, res, next)
 {
+    if(!req.isAuthenticated()){
+
+        req.session.url = req.originalUrl;
+        return res.redirect('/users/signin');
+    }
+    next();
     // check if the user is logged in
     
     // ADD YOUR CODE HERE        
