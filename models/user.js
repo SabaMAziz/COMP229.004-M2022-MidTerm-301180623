@@ -1,3 +1,10 @@
+/*Filename: user.js
+ Student: Saba Aziz
+ StudentId: 301180623
+ Class:COMP 229
+*/
+
+
 let mongoose = require('mongoose');
 let crypto = require('crypto');
 let Schema = mongoose.Schema;
