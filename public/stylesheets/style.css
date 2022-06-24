@@ -17,3 +17,13 @@ body {
 .flash{
   color: red;
 }
+form-control{
+
+  border:none;
+  outline:none;
+  border-bottom: 1px solid gray;
+  color:antiquewhite;
+  font-size: 18px;
+  margin-bottom: 16px;
+
+}
