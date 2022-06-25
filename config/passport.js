@@ -4,7 +4,6 @@
  Class:COMP 229
  */
 
-
 const passport = require('passport');
 
 module.exports = function() {
